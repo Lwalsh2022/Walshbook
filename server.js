@@ -1,7 +1,7 @@
 const express = require('express');
 // const mongoose = require('mongoose');
-const db = require('./config/connection.js');
-const routes = require('./routes');
+const db = require('./config/connection');
+const routes = require('./Walshbook/routes');
 
 const PORT = process.env.PORT || 3001;
 const app = express();
