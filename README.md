@@ -1,4 +1,4 @@
-<img src = "\public\assets\LisaWalshPhotographyHeaderImage2.png" alt = "logo">
+<img src = "public\assets\LisaWalshPhotographyHeaderImage2.png" alt = "logo">
 
 
 
