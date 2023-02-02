@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1seELIXCOrbLbLeb5vDZrXO5NgQHP-xpF/view
 
 # Preview of Application
 
-<img src = "\assets\Screenshot_20230202_024615.png" alt = "screenshot of app">
+<img src ="public\assets\Screenshot_20230202_024615.png" alt = "screenshot of app">
 
 # Features
 
